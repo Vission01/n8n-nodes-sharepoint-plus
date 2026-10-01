@@ -1,19 +1,18 @@
 {
-	"name": "n8n-nodes-sharepoint-plus",
-	"version": "0.0.4",
+	"name": "n8n-nodes-sharepoint-plus+",
+	"version": "1.0.0",
 	"description": "n8n community node for Microsoft SharePoint with document library (drives) support",
 	"keywords": [
 		"n8n-community-node-package"
 	],
 	"license": "MIT",
-	"homepage": "https://github.com/elabbarw/n8n-nodes-sharepoint-plus",
+	"homepage": "https://github.com/Vission01/n8n-nodes-sharepoint-plus",
 	"author": {
-		"name": "Wanis Elabbar",
-		"email": "70503629+elabbarw@users.noreply.github.com"
+		"name": "vission"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/elabbarw/n8n-nodes-sharepoint-plus.git"
+		"url": "https://github.com/Vission01/n8n-nodes-sharepoint-plus.git"
 	},
 	"engines": {
 		"node": ">=20.15"
